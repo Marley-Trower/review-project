@@ -1,0 +1,56 @@
+body {
+  background-image: url("download.jpg");
+  background-repeat: no-repeat;
+  background-size: 1400px 900px;
+}
+  div {
+    border: 1px solid gray;
+    padding: 8px;
+  }
+  
+  h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #3f3f41;
+  }
+  
+  p {
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 3px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #008CBA;
+  }
+
+  .page {
+    background-color: white;
+  }
+  p.one {
+    border-style: solid;
+    border-width: 5px;
+  }
+
+  div {
+    border: 1px solid gray;
+    padding: 8px;
+  }
+  
+  h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #6565c5;
+  }
+  
+  p {
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 3px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #008CBA;
+  }
